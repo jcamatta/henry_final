@@ -82,17 +82,13 @@ Esta area incluye varios modelos, algunos pre-entrenados y otros fine-tunneados 
 Dado que los datasets eran muy pesados (mas de 5GBs) requerimos el uso de tecnicas mas sofisticadas que las tradicionales como pandas. Por ello, usamos:
 - Datasets de HuggingFace
 - Polars
-Para crear el sistema de recomendacion:
-- Surprise
-- Scikit-Learn
-Para entrenar y hacer uso de los modelos NLP:
+- Surprise: Para crear el sistema de recomendacion
+- Scikit-Learn: Para entrenar y hacer uso de los modelos NLP
 - Transformers
-- Tensorflow
-Para la creacion de la API y la pagina WEB:
+- Tensorflow: Para la creacion de la API y la pagina WEB
 - FastAPI
 - Streamlit
-Para los graficos geo-espaciales en Streamlit:
-- Folium
+- Folium: Para los graficos geo-espaciales en Streamlit
 - Streamlit-Folium
 Otras:
 - Requests
@@ -105,7 +101,6 @@ Otras:
 ## Referencias
 
 A continuacion paso recomendar las paginas webs y documentaciones con las que me base para realizar este proyecto.
-
 
 ### Documentación
 
@@ -134,7 +129,7 @@ https://github.com/jcamatta/henry_labs_02
 
 En este creo un sistema de recomendacion.
 
-https://github.com/jcamatta/henry_labs_02
+https://github.com/jcamatta/henry_labs_01
 <hr>
 
 ## Agradecimientos
